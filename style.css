@@ -1,0 +1,108 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,700;1,400&display=swap');
+
+h1{
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    position: relative;
+    top:90px;
+    text-decoration: none;
+    z-index: 1;
+}
+h2{
+  color: white;
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  font-weight: 600;
+  font-size: xx-large;
+  left: 150px;
+  top: -560px;
+  z-index: 13;
+
+}
+
+p{
+    color: white;
+    position: relative;
+    left: 750px;
+    top: -340px;
+    padding-top: 6px;
+    font-family: 'Kanit', sans-serif;
+
+}
+#text{
+  font-family: 'Kanit', sans-serif;
+  z-index: 14;
+  font-weight: 700;
+  
+  
+}
+#schedule{
+    position: relative;
+    top: -50px;
+    left: 100px;
+    z-index: 10;
+
+}
+
+#legend{
+    position: relative;
+    top: -420px;
+    left: 700px;
+    z-index: 10; 
+
+}
+#sketch{
+  position: relative;
+  left: -900px;
+  z-index: -1;
+
+}
+#description{
+  position: relative;
+  top: -370px;
+  z-index: 12;
+  font-weight: 700;
+
+}
+#breakdown{
+  position: relative;
+  z-index: 1;
+  left: 100px;
+  top: -500px;
+
+}
+
+#pic_schedule{
+  position: relative;
+  left: 900px;
+  top: -1450px;
+  z-index: 15;
+
+}
+#welcome{
+  position: relative;
+  text-align: center;
+  z-index: 6;
+
+}
+#click{
+  position: relative;
+  top: -600px;
+  left: 700px;
+  color: white;
+  z-index: 16;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 700;
+
+
+
+}
